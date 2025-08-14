@@ -8,3 +8,9 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Env vars
+.env
+
+# Google service account
+credentials.json

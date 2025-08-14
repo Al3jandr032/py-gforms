@@ -143,7 +143,7 @@ credentials = auth.authenticate_with_oauth("path/to/client_secrets.json")
 ### Running the Example
 
 ```bash
-python examples.py
+uv run python main.py
 ```
 
 ## Development
